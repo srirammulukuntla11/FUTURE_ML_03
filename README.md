@@ -50,6 +50,7 @@ VS Code – development environment
 GitHub – version control & project sharing
 
 📂 Project Folder Structure
+
 FUTURE_ML_03/
 │
 ├── data/
@@ -115,4 +116,5 @@ Ranks candidates
 
 Highlights missing skills
 All results are clearly visible and exportable.
+
 
