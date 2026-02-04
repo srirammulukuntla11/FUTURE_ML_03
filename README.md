@@ -1,4 +1,5 @@
 📄 Resume Screening & Candidate Ranking System (Task 3)
+
 📌 Project Overview
 
 This project is a Machine Learning–based Resume Screening System that automatically analyzes resumes and ranks candidates based on how well they match a given job role.
@@ -114,3 +115,4 @@ Ranks candidates
 
 Highlights missing skills
 All results are clearly visible and exportable.
+
